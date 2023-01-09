@@ -1,2 +1,2 @@
 # Literature-generator-using-Markov-Chains
-Markov Chain 
+### Everything that will happen in the future only depends on what is happening right now!
